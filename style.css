@@ -1,11 +1,12 @@
 body{
 	margin:0;
-	font-family: Helvetica;
+	/*font-family: sans-serif;*/
 	background-color: gray;
 }
-h1{
-	font-weight: ;
-	color: white;
+  p{
+	font-weight:100;
+	color: #f5f6fa;
+	font-family: sans-serif;
 }
 #logo {
 	height: 80px;
