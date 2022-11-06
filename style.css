@@ -5,12 +5,12 @@ body{
 }
   p{
 	color: #f5f6fa;
-	font-family: cursive;
-	font-size: 20px;
+	font-family: serif;
+	font-size: 30px;
 }
 #logo {
-		width: 500px;
-		border-radius: 30px;
+		width: 550px;
+		border-radius: 10px 100px / 120px;
 }
 #container {
 	display: flex;
@@ -22,5 +22,10 @@ body{
 }
 #field{
 	font-family: system-ui;
-	font-size: 24px;
+	font-size: 40px;
+	font-weight:bold;
+}
+#slogan{
+	font-size: 20px;
+	font-family:cursive;
 }
